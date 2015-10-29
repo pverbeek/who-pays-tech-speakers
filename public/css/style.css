@@ -100,7 +100,7 @@ select {
   font-weight: 300;
   color:#333;
   background: transparent;
-  padding: 5px;
+  padding: 0 5px;
   line-height: 1;
   border: 0;
   height: 30px;
